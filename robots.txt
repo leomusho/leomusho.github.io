@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://leomusho.github.io/sitemap.html.gz
+Sitemap: https://leomusho.github.io/app/sitemap.html.gz
+Sitemap: https://leomusho.github.io/assets/sitemap.html.gz
+Sitemap: https://leomusho.github.io/css/sitemap.html.gz
+Sitemap: https://leomusho.github.io/data/sitemap.html.gz
+Sitemap: https://leomusho.github.io/includes/sitemap.html.gz
+Sitemap: https://leomusho.github.io/item/sitemap.html.gz
+Sitemap: https://leomusho.github.io/src/sitemap.html.gz
